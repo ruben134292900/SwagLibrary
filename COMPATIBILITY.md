@@ -1,5 +1,5 @@
 # Compatibility
-
+Which versions SwagLibrary works on, keep in mind that i will not update the library just to support an older version.
 ## Supported Teardown Versions
 
 | Version | Supported          |
